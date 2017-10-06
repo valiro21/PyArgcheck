@@ -12,6 +12,7 @@ exceptions happen while code is running.
 ----
 
 This library is available using pip. To install use:
+
 .. code::
 
     pip install argcheck 
