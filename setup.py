@@ -25,19 +25,18 @@ SOFTWARE.
 from setuptools import setup
 
 setup(
-    name='argcheck',
+    name='cargcheck',
     version='0.1.0rc1',
-    description="Argument checker for python.",
-    url='http://github.com/valiro21/PyArgcheck',
+    description="Argument checker for python with C like syntax.",
+    url='http://github.com/valiro21/PyCArgcheck',
     author='Valentin-Bogdan Roșca',
     author_email='rosca.valentin2012@gmail.com',
     license='MIT',
-    packages=["argcheck"],
+    packages=["cargcheck"],
     keywords=('argument arguments check assert conditions'
               'development flow control programming errors'),
     python_requires='>=3',
     classifiers=[
-        'Development Status :: 5 - Production',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3 :: Only',

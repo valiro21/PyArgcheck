@@ -1,4 +1,4 @@
-PyArgcheck
+PyCArgcheck
 =======================
 
 A python 3.X library that provides helper methods for checking arguments.
@@ -15,7 +15,7 @@ This library is available using pip. To install use:
 
 .. code::
 
-    pip install argcheck 
+    pip install cargcheck 
 
 Enjoy!
 -----------
